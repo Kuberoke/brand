@@ -4,8 +4,7 @@
 
 | PNG | SVG |
 | --- | --- |
-| ![](./logos/Kuberoke.png) | |
-| ![](./logos/Kuberoke-WithWhiteBorder.png) | ![](./logos/Kuberoke.svg) |
+| ![](./logos/Kuberoke.png) | ![](./logos/Kuberoke.svg) |
 | ![](./logos/Kuberoke-Monochrome-Black.png) | ![](./logos/Kuberoke-Monochrome-Black.svg) |
 | ![](./logos/Kuberoke-Monochrome-White.png) | ![](./logos/Kuberoke-Monochrome-White.svg) |
 
